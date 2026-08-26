@@ -1,6 +1,6 @@
 # GoPostule
 
-GoPostule est un bot qui vous permet d'envoyer des candidatures par email automatiquement depuis n'importe où avec votre adresse mail. 
+GoPostule est une automatisation de candidature qui vous permet d'envoyer des candidatures par email automatiquement depuis n'importe où avec votre adresse mail. 
 
 Pour utiliser GoPostule, vous avez besoin de :
 - Un IDE (éditeur de code)
