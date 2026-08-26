@@ -1,0 +1,42 @@
+# Variables d'environnement
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# Données sensibles
+data/jobs.csv
+data/*.csv
+data/sent.csv
+data/result*.csv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Dashboard (optionnel - à décommenter si on veut l'ignorer)
+# dashboard/

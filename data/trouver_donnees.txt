@@ -1,0 +1,20 @@
+je cherche une alternance ingénieur informatique (bac+4, contrat 3 ans) en île-de-france.
+merci de me générer un fichier csv très complet, contenant au moins 100 opportunités (plus si possible), incluant :
+des offres d'alternance en cours pour ingénieurs informatique (niveaux bac+4/bac+5)
+des candidatures spontanées auprès des grandes entreprises qui recrutent beaucoup d'alternants (orange, sncf, thales, airbus, capgemini, atos, edf, engie, bouygues, sfr, etc.) et des pme/eti
+domaines visés : développement logiciel, réseaux, cybersécurité, intelligence artificielle, systèmes embarqués, big data, cloud, devops
+le fichier csv doit avoir les colonnes suivantes :
+company (nom de l'entreprise),
+email (adresse de contact ou rh alternance),
+role (intitulé du poste alternance ingénieur ou mention "candidature spontanée alternance ingénieur informatique"),
+source_url (lien vers l'annonce ou le site officiel de l'entreprise).
+ne pas inclure d'entreprises en dehors d'île-de-france.
+inclure seulement les emails même si ils existent vraiments. tu peux inférer les emails si besoin à partir des sites des entreprises.
+au format csv suivant : company,email,role,source_url
+orange,alternance@orange.com,alternance ingénieur cybersécurité,https://orange.fr/carrieres/alternances
+sncf,recrutement@sncf.fr,alternance ingénieur réseaux,https://sncf.fr/fr/carrieres/alternances
+thales,alternance@thalesgroup.com,alternance ingénieur systèmes embarqués,https://thalesgroup.com/fr/carrieres/alternances
+
+
+chercher vous meme et construises des jobs avec nom entreprise, adresse mail verifiez, titre du job, source url ou ta trouuver l'offre
+demande à l'ia 

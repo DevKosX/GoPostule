@@ -1,0 +1,22 @@
+Bonjour,
+
+Je vous contacte concernant le poste de {{ role }} chez {{ company }}.
+
+Je suis étudiant en école d'ingénieur et je recherche une alternance en développement informatique. Mon parcours m'a permis de développer des compétences variées en développement web, systèmes embarqués, et gestion de projets.
+
+Expériences principales :
+- Stage à l'Université Paris Cité : développement d'une plateforme de contrôle pour drone (Python, VHDL, électronique embarquée)
+- Développement ERP complet chez DEVEA (Full-Stack Laravel, architecture MVC, multi-tenancy)
+- Projets personnels : applications mobiles (React Native, Flutter), portfolio (React)
+
+Compétences techniques :
+- Back-end : Python, Java Spring Boot, PHP/Laravel
+- Front-end : React, React Native, Flutter
+- DevOps : Docker, conteneurisation
+- Systèmes embarqués : VHDL, électronique
+
+Je suis motivé, force de proposition et à l'écoute. Mon objectif est de m'intégrer rapidement pour contribuer efficacement à vos projets.
+
+Merci de l'attention que vous porterez à ma candidature.
+
+Cordialement,
